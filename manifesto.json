@@ -1,0 +1,157 @@
+{
+ "gerado_em": "2026-11-17",
+ "fonte": "PDFs compilados do CSMPT em https://mpt.mp.br/pgt/conselho-superior/resolucoes-1",
+ "arquivos": [
+  {
+   "arquivo": "resolucoes/235-01.json",
+   "sha256": "013508b2183c2dc8d816532630b540336c4f7621d56e1d94b89d2750ad161382",
+   "bytes": 31581,
+   "tipo": "resolucao",
+   "numero": 235,
+   "parte": 1,
+   "partes": 2
+  },
+  {
+   "arquivo": "resolucoes/235-02.json",
+   "sha256": "280321b09c7400652450d7f454bd7ef488f7859d3f6c348683d45c7f93a50b5f",
+   "bytes": 21993,
+   "tipo": "resolucao",
+   "numero": 235,
+   "parte": 2,
+   "partes": 2
+  },
+  {
+   "arquivo": "resolucoes/195-01.json",
+   "sha256": "b9d12d602656c758be6f7a74752efce41f97c3e3f41e705188b528bdd72bfe82",
+   "bytes": 1713,
+   "tipo": "resolucao",
+   "numero": 195,
+   "parte": 1,
+   "partes": 1
+  },
+  {
+   "arquivo": "temario/195-01.json",
+   "sha256": "060b1a537b52cf57d91d7e477cd3fe88dfb977bf7ff67e9dc015df8a6be0adb6",
+   "bytes": 62601,
+   "tipo": "temario",
+   "numero": 195,
+   "parte": 1,
+   "partes": 12
+  },
+  {
+   "arquivo": "temario/195-02.json",
+   "sha256": "b30b66ecf012416cfc38eb37f6b64aae5e38590bb02db308d921be8d4c692825",
+   "bytes": 60693,
+   "tipo": "temario",
+   "numero": 195,
+   "parte": 2,
+   "partes": 12
+  },
+  {
+   "arquivo": "temario/195-03.json",
+   "sha256": "ff3041844c680f066fa08727133777a0b1e088f3c9c732d1ce879bd7ad6e473a",
+   "bytes": 50021,
+   "tipo": "temario",
+   "numero": 195,
+   "parte": 3,
+   "partes": 12
+  },
+  {
+   "arquivo": "temario/195-04.json",
+   "sha256": "7c64e1c74424b6b5056be7a2e2c58612c1a6c758e477605b998cc2b3dcd7c246",
+   "bytes": 57496,
+   "tipo": "temario",
+   "numero": 195,
+   "parte": 4,
+   "partes": 12
+  },
+  {
+   "arquivo": "temario/195-05.json",
+   "sha256": "29e2f805956edd8cc504c6aea5ab911123995bb3e4780656dae76d5d15756a06",
+   "bytes": 58882,
+   "tipo": "temario",
+   "numero": 195,
+   "parte": 5,
+   "partes": 12
+  },
+  {
+   "arquivo": "temario/195-06.json",
+   "sha256": "41b9ddadb120679872f695de5f908140d93f75117c035035e338ba81581083a4",
+   "bytes": 59489,
+   "tipo": "temario",
+   "numero": 195,
+   "parte": 6,
+   "partes": 12
+  },
+  {
+   "arquivo": "temario/195-07.json",
+   "sha256": "651e664b417d17caf458315a1b45b4b0dba9eb597587d4e9b5a8c5194a4d5846",
+   "bytes": 64375,
+   "tipo": "temario",
+   "numero": 195,
+   "parte": 7,
+   "partes": 12
+  },
+  {
+   "arquivo": "temario/195-08.json",
+   "sha256": "835daeeb8fd9cc822bc3fac43fa111e56a094971109eff4367801b1148d24b5a",
+   "bytes": 54659,
+   "tipo": "temario",
+   "numero": 195,
+   "parte": 8,
+   "partes": 12
+  },
+  {
+   "arquivo": "temario/195-09.json",
+   "sha256": "7fb5c18c58298c1896f8a56a6078e4d836094a82faf1d5e4695ab6c9b8efde53",
+   "bytes": 57663,
+   "tipo": "temario",
+   "numero": 195,
+   "parte": 9,
+   "partes": 12
+  },
+  {
+   "arquivo": "temario/195-10.json",
+   "sha256": "af8e8539e34915648f80cfa015f26ea20afba64b804d1b764ed24da9d2bba53f",
+   "bytes": 61260,
+   "tipo": "temario",
+   "numero": 195,
+   "parte": 10,
+   "partes": 12
+  },
+  {
+   "arquivo": "temario/195-11.json",
+   "sha256": "998c6d6048a954857942b9d22093b9d0af85ba51d7083368d824ddf27c10bc02",
+   "bytes": 51151,
+   "tipo": "temario",
+   "numero": 195,
+   "parte": 11,
+   "partes": 12
+  },
+  {
+   "arquivo": "temario/195-12.json",
+   "sha256": "8871082f31d5d6cad0644cbb8de5d602a542d577415a6a99cda3e3fea75bbc41",
+   "bytes": 21185,
+   "tipo": "temario",
+   "numero": 195,
+   "parte": 12,
+   "partes": 12
+  }
+ ],
+ "pdfs": [
+  {
+   "numero": 235,
+   "url": "https://midia-ext.mpt.mp.br/pgt/csmpt/resolucoes/resolu235.pdf",
+   "sha256": "421be33b464337f82aa739f6f4dd212e94344712d44cacb44a1cf6226c14bd45",
+   "paginas": 23,
+   "bytes": 274355
+  },
+  {
+   "numero": 195,
+   "url": "https://midia-ext.mpt.mp.br/pgt/csmpt/resolucoes/resolu195.pdf",
+   "sha256": "f9381b75b0c2d9bb5f86c76d43bdb65e4758eb66b2df260c542d43474223f28d",
+   "paginas": 423,
+   "bytes": 3301492
+  }
+ ]
+}
